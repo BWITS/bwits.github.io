@@ -1,0 +1,19 @@
+{
+    "name": "bwits.github.io",
+    "version": "0.1.0",
+    "homepage": "http://bwits.github.io",
+    "authors": [
+        "Samuel Marks <ozbillwang@gmail.com>"
+    ],
+    "description": "bwits.github.io website",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "bootstrap-css-only": "~3.3.4"
+    }
+}
